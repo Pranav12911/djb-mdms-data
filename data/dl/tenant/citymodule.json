@@ -27,7 +27,7 @@
     },
     {
       "module": "Finance",
-      "code": "Finance",
+      "code": "FINANCE",
       "active": true,
       "order": 4,
       "tenants": [
@@ -162,7 +162,7 @@
     },
     {
       "module": "Receipts",
-      "code": "Receipts",
+      "code": "RECEIPTS",
       "active": true,
       "order": 3,
       "tenants": [
@@ -308,7 +308,7 @@
     },
     {
       "module": "Engagement",
-      "code": "Engagement",
+      "code": "ENGAGEMENT",
       "active": true,
       "order":3,
       "tenants": [
